@@ -7,8 +7,7 @@ This project involves working on a Todo List application, with a React-based fro
 ## Table of Contents
 - [Project Setup](#project-setup)
 - [Database Configuration](#database-configuration)
-- [Backend Development](#backend-development)
-- [Frontend Development](#frontend-development)
+- [Backend/Frontend Development](#Backend/Frontend-development)
 - [Testing and Debugging](#testing-and-debugging)
 - [Conclusion](#conclusion)
 
